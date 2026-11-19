@@ -105,12 +105,12 @@ Refresh the page afterwards.
 
 ## 6. Install
 
-Put this folder somewhere stable, then in DSH:
+From a downloaded copy: on the repository page use **Code → Download ZIP**, unzip it, and point `install_bundle` at the unzipped folder. Then in DSH:
 
 ```
 plugin_manager
   action: install_bundle
-  target: <absolute path to this folder>
+  target: <absolute path to that folder>
 ```
 
 Restart DSH or refresh the page. The status-bar item appears on the next conversation.
