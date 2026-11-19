@@ -1,0 +1,5 @@
+- insert:
+    - id: cheat-sheet
+      name: dsh-cheat-sheet
+      config:
+        hint: ''
